@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Software Developer
-- 👀 I’m interested in Machine Learning | Full Stack Development| Software Testing
-- 🌱 I’m currently learning PHP | React | CSS | Python
-- 💞️ I’m looking to collaborate on Software Integration and Testing
-- 📫 ...
+- 👀 Talk of  Machine Learning | Full Stack Development| Software Testing
+- 🌱 Currently learning PHP | Laravel | React | Python for Data Analysis
+- 💞️ Looking to collaborate with you on Software Testing and Integration.
+- 📫 Welcome!
 
 <!---
 dev-msn/dev-msn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
